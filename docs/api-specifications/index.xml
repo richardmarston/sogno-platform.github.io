@@ -1,3 +1,5 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SOGNO – API Specifications</title><link>https://sogno-platform.github.io/docs/api-specifications/</link><description>Recent content in API Specifications on SOGNO</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://sogno-platform.github.io/docs/api-specifications/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: DPSIM API</title><link>https://sogno-platform.github.io/www.google.com</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sogno-platform.github.io/www.google.com</guid><description>
 &lt;h2 id="api">API&lt;/h2>
-&lt;p>{{ partial &amp;ldquo;iframe.html&amp;rdquo; . }}&lt;/p></description></item></channel></rss>
+&lt;div class="iframe-container">
+&lt;iframe src=www.google.com width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *">&lt;/iframe>
+&lt;/div></description></item></channel></rss>
